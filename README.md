@@ -1,6 +1,6 @@
 SpringMVCDemo
 =============
-change the login credentials for database access in file database.properties
+change the login credentials for database access in file - database.properties
 
 and run following sql query
 
